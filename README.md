@@ -1,6 +1,6 @@
 - 👋 Oi, eu me chamo Richard Santos.
 - 👀 Estou interessado em me desenvolver profissionalmente em Front End
-- 🌱 Atualmente estou aprendendo mais sobre react
+- 🌱 Atualmente estou aprendendo mais sobre React 
 - 💞️ Quero poder ajudar a colaborar com uma empresa, e poder crescer e se desenvolver.
 - 📫 Como chegar ate mim ? Simples ! https://www.linkedin.com/in/richard-santos-0897b315b/
 
